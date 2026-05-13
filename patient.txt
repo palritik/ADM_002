@@ -1,0 +1,3 @@
+Patient Name - Ram 
+Sno - 1
+Address -Bhopal
